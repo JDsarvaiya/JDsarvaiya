@@ -1,37 +1,46 @@
-<h1 align="center">Hi 👋, I'm Jaydeep Sarvaiya</h1>
+<!-- Banner -->
+
+<p align="center">
+<img src="YOUR_GITHUB_BANNER_LINK_HERE" width="100%">
+</p>
+
+<h1 align="center">Hi 👋 I'm Jaydeep Sarvaiya</h1>
 
 <h3 align="center">
 Full Stack Developer (MERN Stack)
 </h3>
 
 <p align="center">
-Building modern, scalable & user-friendly web applications 🚀
+Building scalable web applications with React.js, Node.js & MongoDB 🚀
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;REST+API+Developer;Always+Learning+New+Technologies" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1200&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+Developer;Node.js+Developer;MongoDB+Developer;Always+Learning+New+Technologies"/>
+
 </p>
 
 ---
 
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=JDsarvaiya&label=Profile+Views&color=0891b2&style=for-the-badge"/>
+
+</p>
+
 # 👨‍💻 About Me
 
-💼 Full Stack Developer specializing in the MERN Stack
+💼 Full Stack Developer
 
-🚀 Passionate about building scalable web applications
+🚀 MERN Stack Enthusiast
 
-🌱 Currently learning Advanced React & Performance Optimization
+🔥 Passionate about Clean Code & Modern UI
 
-🔐 Experienced with JWT Authentication & REST APIs
+📚 Learning Advanced React & Backend Architecture
+
+⚡ Strong in REST APIs & Authentication
 
 📍 Surat, Gujarat, India
-
-📧 **Email:** jdsarvaiya1712@gmail.com
-
-💼 **LinkedIn:**  
-https://linkedin.com/in/jaydeep-sarvaiya-781708189
-
-🌐 **Portfolio:** Coming Soon
 
 ---
 
@@ -39,7 +48,17 @@ https://linkedin.com/in/jaydeep-sarvaiya-781708189
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,redux,git,github,vscode,postman,npm"/>
+
+</p>
+
+---
+
+# 🧰 Developer Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,mongodb"/>
 
 </p>
 
@@ -47,49 +66,27 @@ https://linkedin.com/in/jaydeep-sarvaiya-781708189
 
 # 💼 Featured Projects
 
-### 🛒 MERN E-Commerce Website
-
-- User Authentication (JWT)
-- Shopping Cart
-- Wishlist
-- Admin Dashboard
-- REST APIs
-- Responsive UI
-
----
-
-### 🔐 Signup & Login System
-
-- JWT Authentication
-- Protected Routes
-- Login / Signup
-- Secure Backend
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🛒 MERN E-Commerce | Authentication, Cart, Wishlist, Admin | React, Node, MongoDB |
+| 🔐 Authentication System | JWT Login & Signup | React, Express |
+| 📦 CRUD Application | CRUD Operations | React |
+| 🎯 Spinner Game | Dynamic Spinner | React |
+| 📸 Photo Studio Asset Management | Admin Dashboard | PHP, MySQL |
 
 ---
 
-### 📦 CRUD Application
+# 🌱 Currently Working On
 
-- Create
-- Read
-- Update
-- Delete
-- API Integration
+✔ Advanced React
 
----
+✔ Performance Optimization
 
-### 🎯 Spinner Game
+✔ Clean Architecture
 
-Interactive React Spinner Game
+✔ Reusable Components
 
----
-
-### 📸 Photo Studio Asset Management System
-
-Admin Dashboard
-
-Staff Management
-
-Customer Management
+✔ REST APIs
 
 ---
 
@@ -98,16 +95,6 @@ Customer Management
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=JDsarvaiya&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🛠 Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,mongodb" />
 
 </p>
 
@@ -133,11 +120,11 @@ Customer Management
 
 ---
 
-# 💡 Quote
+# 💬 Quote
 
 <p align="center">
 
-> "First, solve the problem. Then, write the code."
+> "Great software is built one commit at a time."
 
 </p>
 
@@ -145,8 +132,10 @@ Customer Management
 
 <p align="center">
 
-⭐ If you like my work, consider giving a star to my repositories.
+⭐ Thanks for visiting my profile.
 
-Thanks for visiting my profile ❤️
+If you like my projects, don't forget to give them a ⭐
+
+Happy Coding 🚀
 
 </p>
