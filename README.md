@@ -1,31 +1,41 @@
 <h1 align="center">Hi 👋, I'm Jaydeep Sarvaiya</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | MERN Stack Developer | React.js | Node.js | MongoDB
+Full Stack Developer (MERN Stack)
 </h3>
 
 <p align="center">
-Passionate about building scalable, responsive and user-friendly web applications 🚀
+Building modern, scalable & user-friendly web applications 🚀
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=00C2CB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;REST+API+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;REST+API+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💼 Full Stack Developer specializing in the MERN Stack
-- 🚀 Passionate about developing modern, scalable web applications
-- 🌱 Currently learning Advanced React & Performance Optimization
-- 🔐 Experienced with Authentication (JWT), REST APIs & MongoDB
-- 💡 Love solving real-world problems through clean code
-- 📍 Surat, Gujarat, India
+💼 Full Stack Developer specializing in the MERN Stack
+
+🚀 Passionate about building scalable web applications
+
+🌱 Currently learning Advanced React & Performance Optimization
+
+🔐 Experienced with JWT Authentication & REST APIs
+
+📍 Surat, Gujarat, India
+
+📧 **Email:** jdsarvaiya1712@gmail.com
+
+💼 **LinkedIn:**  
+https://linkedin.com/in/jaydeep-sarvaiya-781708189
+
+🌐 **Portfolio:** Coming Soon
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
@@ -35,28 +45,25 @@ Passionate about building scalable, responsive and user-friendly web application
 
 ---
 
-## 📂 Featured Projects
+# 💼 Featured Projects
 
 ### 🛒 MERN E-Commerce Website
 
-✔ User Authentication (JWT)
-
-✔ Shopping Cart & Wishlist
-
-✔ Admin Dashboard
-
-✔ REST API Integration
-
-✔ Responsive UI
+- User Authentication (JWT)
+- Shopping Cart
+- Wishlist
+- Admin Dashboard
+- REST APIs
+- Responsive UI
 
 ---
 
-### 🔐 Authentication System
+### 🔐 Signup & Login System
 
-- Login
-- Signup
-- Protected Routes
 - JWT Authentication
+- Protected Routes
+- Login / Signup
+- Secure Backend
 
 ---
 
@@ -66,80 +73,80 @@ Passionate about building scalable, responsive and user-friendly web application
 - Read
 - Update
 - Delete
-- Local Storage & API Integration
+- API Integration
 
 ---
 
 ### 🎯 Spinner Game
 
-Interactive React Spinner Game with Dynamic Data
+Interactive React Spinner Game
 
 ---
 
 ### 📸 Photo Studio Asset Management System
 
-Admin & Staff Management System
+Admin Dashboard
+
+Staff Management
+
+Customer Management
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JDsarvaiya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDsarvaiya&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
+# 📈 GitHub Activity
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=JDsarvaiya&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=JDsarvaiya&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🛠 Tools
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JDsarvaiya&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,mongodb" />
+
 </p>
 
 ---
 
-## 📫 Connect with Me
+# 🌐 Connect With Me
 
-📧 Email
+<p align="center">
 
-**jdsarvaiya1712@gmail.com**
+<a href="https://github.com/JDsarvaiya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-💼 LinkedIn
+<a href="https://linkedin.com/in/jaydeep-sarvaiya-781708189">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-https://linkedin.com/in/jaydeep-sarvaiya-781708189
+<a href="mailto:jdsarvaiya1712@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-💻 GitHub
-
-https://github.com/JDsarvaiya
+</p>
 
 ---
 
-## 💡 Quote
+# 💡 Quote
 
-> "Code. Learn. Build. Improve. Repeat."
+<p align="center">
+
+> "First, solve the problem. Then, write the code."
+
+</p>
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ If you like my work, consider giving a star to my repositories.
 
-If you like my work, consider giving a ⭐ to my repositories.
-
-Happy Coding 🚀
+Thanks for visiting my profile ❤️
 
 </p>
