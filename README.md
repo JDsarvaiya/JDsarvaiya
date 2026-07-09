@@ -1,131 +1,147 @@
+<h1 align="center">Hi 👋, I'm Jaydeep Sarvaiya</h1>
+
+<h3 align="center">
+💻 Full Stack Developer | MERN Stack Developer | React.js | Node.js | MongoDB
+</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=220&section=header&text=Jaydeep%20Sarvaiya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)&descAlignY=58"/>
+Passionate about building scalable, responsive and user-friendly web applications 🚀
 </p>
 
-<h3 align="center">🚀 Building Modern & Scalable Web Applications</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&color=06B6D4&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;REST+API+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=00C2CB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;REST+API+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```javascript
-const jaydeep = {
-    role: "Full Stack Developer",
-    location: "Surat, Gujarat 🇮🇳",
-    technologies: [
-        "React.js",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "JavaScript"
-    ],
-    currentlyLearning: [
-        "Advanced React",
-        "Performance Optimization",
-        "System Design"
-    ],
-    passion: "Building scalable & user-friendly web applications"
-};
-```
+- 💼 Full Stack Developer specializing in the MERN Stack
+- 🚀 Passionate about developing modern, scalable web applications
+- 🌱 Currently learning Advanced React & Performance Optimization
+- 🔐 Experienced with Authentication (JWT), REST APIs & MongoDB
+- 💡 Love solving real-world problems through clean code
+- 📍 Surat, Gujarat, India
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,redux,git,github,vscode,postman,npm"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,vscode,postman" />
 
 </p>
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-| 🚀 Project | Description | Tech Stack |
-|------------|-------------|------------|
-| 🛒 MERN E-Commerce | Authentication, Cart, Wishlist, Admin Dashboard | React, Node, MongoDB |
-| 🔐 Authentication System | JWT Login & Signup | React, Express, MongoDB |
-| 📦 CRUD Application | Complete CRUD Operations | React |
-| 🎯 Spinner Game | Interactive Lucky Spinner | React |
-| 📸 Photo Studio Asset Management | Dashboard & Management System | PHP, MySQL |
+### 🛒 MERN E-Commerce Website
 
----
+✔ User Authentication (JWT)
 
-# 🌱 Currently Working On
+✔ Shopping Cart & Wishlist
 
-- ⚛ Advanced React.js
-- 🚀 Performance Optimization
-- 🔐 Authentication & Security
-- 🌐 REST API Development
-- 📱 Responsive UI/UX
+✔ Admin Dashboard
+
+✔ REST API Integration
+
+✔ Responsive UI
 
 ---
 
-# 🛠 Tools
+### 🔐 Authentication System
+
+- Login
+- Signup
+- Protected Routes
+- JWT Authentication
+
+---
+
+### 📦 CRUD Application
+
+- Create
+- Read
+- Update
+- Delete
+- Local Storage & API Integration
+
+---
+
+### 🎯 Spinner Game
+
+Interactive React Spinner Game with Dynamic Data
+
+---
+
+### 📸 Photo Studio Asset Management System
+
+Admin & Staff Management System
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,mongodb"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JDsarvaiya&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDsarvaiya&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Activity
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=JDsarvaiya&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=JDsarvaiya&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📬 Connect With Me
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<a href="mailto:jdsarvaiya1712@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/jaydeep-sarvaiya-781708189">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/JDsarvaiya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=JDsarvaiya&theme=tokyonight&margin-w=10&margin-h=10"/>
 
 </p>
 
 ---
 
-# 💬 Quote
+## 📫 Connect with Me
 
-<p align="center">
+📧 Email
 
-> **"First, solve the problem. Then, write the code."**
+**jdsarvaiya1712@gmail.com**
 
-</p>
+💼 LinkedIn
+
+https://linkedin.com/in/jaydeep-sarvaiya-781708189
+
+💻 GitHub
+
+https://github.com/JDsarvaiya
+
+---
+
+## 💡 Quote
+
+> "Code. Learn. Build. Improve. Repeat."
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 
-If you like my projects, don't forget to ⭐ them.
+If you like my work, consider giving a ⭐ to my repositories.
 
-🚀 Happy Coding!
+Happy Coding 🚀
 
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0F172A&height=120&section=footer"/>
 </p>
