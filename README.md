@@ -85,11 +85,11 @@ Admin & Staff Management System
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JDsarvaiya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JDsarvaiya&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDsarvaiya&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDsarvaiya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -107,9 +107,7 @@ Admin & Staff Management System
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JDsarvaiya&theme=tokyonight&margin-w=10&margin-h=10"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=JDsarvaiya&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
