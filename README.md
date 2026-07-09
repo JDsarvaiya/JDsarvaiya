@@ -1,46 +1,40 @@
-<!-- Banner -->
-
 <p align="center">
-<img src="YOUR_GITHUB_BANNER_LINK_HERE" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=220&section=header&text=Jaydeep%20Sarvaiya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)&descAlignY=58"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Jaydeep Sarvaiya</h1>
-
-<h3 align="center">
-Full Stack Developer (MERN Stack)
-</h3>
+<h3 align="center">🚀 Building Modern & Scalable Web Applications</h3>
 
 <p align="center">
-Building scalable web applications with React.js, Node.js & MongoDB 🚀
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&color=06B6D4&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;REST+API+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1200&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+Developer;Node.js+Developer;MongoDB+Developer;Always+Learning+New+Technologies"/>
-
+  <img src="https://komarev.com/ghpvc/?username=JDsarvaiya&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=JDsarvaiya&label=Profile+Views&color=0891b2&style=for-the-badge"/>
-
-</p>
-
 # 👨‍💻 About Me
 
-💼 Full Stack Developer
-
-🚀 MERN Stack Enthusiast
-
-🔥 Passionate about Clean Code & Modern UI
-
-📚 Learning Advanced React & Backend Architecture
-
-⚡ Strong in REST APIs & Authentication
-
-📍 Surat, Gujarat, India
+```javascript
+const jaydeep = {
+    role: "Full Stack Developer",
+    location: "Surat, Gujarat 🇮🇳",
+    technologies: [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "JavaScript"
+    ],
+    currentlyLearning: [
+        "Advanced React",
+        "Performance Optimization",
+        "System Design"
+    ],
+    passion: "Building scalable & user-friendly web applications"
+};
+```
 
 ---
 
@@ -54,43 +48,39 @@ Building scalable web applications with React.js, Node.js & MongoDB 🚀
 
 ---
 
-# 🧰 Developer Tools
+# 📂 Featured Projects
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,mongodb"/>
-
-</p>
-
----
-
-# 💼 Featured Projects
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🛒 MERN E-Commerce | Authentication, Cart, Wishlist, Admin | React, Node, MongoDB |
-| 🔐 Authentication System | JWT Login & Signup | React, Express |
-| 📦 CRUD Application | CRUD Operations | React |
-| 🎯 Spinner Game | Dynamic Spinner | React |
-| 📸 Photo Studio Asset Management | Admin Dashboard | PHP, MySQL |
+| 🚀 Project | Description | Tech Stack |
+|------------|-------------|------------|
+| 🛒 MERN E-Commerce | Authentication, Cart, Wishlist, Admin Dashboard | React, Node, MongoDB |
+| 🔐 Authentication System | JWT Login & Signup | React, Express, MongoDB |
+| 📦 CRUD Application | Complete CRUD Operations | React |
+| 🎯 Spinner Game | Interactive Lucky Spinner | React |
+| 📸 Photo Studio Asset Management | Dashboard & Management System | PHP, MySQL |
 
 ---
 
 # 🌱 Currently Working On
 
-✔ Advanced React
-
-✔ Performance Optimization
-
-✔ Clean Architecture
-
-✔ Reusable Components
-
-✔ REST APIs
+- ⚛ Advanced React.js
+- 🚀 Performance Optimization
+- 🔐 Authentication & Security
+- 🌐 REST API Development
+- 📱 Responsive UI/UX
 
 ---
 
-# 📈 GitHub Activity
+# 🛠 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,mongodb"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Activity
 
 <p align="center">
 
@@ -100,20 +90,20 @@ Building scalable web applications with React.js, Node.js & MongoDB 🚀
 
 ---
 
-# 🌐 Connect With Me
+# 📬 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/JDsarvaiya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="mailto:jdsarvaiya1712@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/jaydeep-sarvaiya-781708189">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:jdsarvaiya1712@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://github.com/JDsarvaiya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -124,7 +114,7 @@ Building scalable web applications with React.js, Node.js & MongoDB 🚀
 
 <p align="center">
 
-> "Great software is built one commit at a time."
+> **"First, solve the problem. Then, write the code."**
 
 </p>
 
@@ -132,10 +122,14 @@ Building scalable web applications with React.js, Node.js & MongoDB 🚀
 
 <p align="center">
 
-⭐ Thanks for visiting my profile.
+### ⭐ Thanks for visiting my profile!
 
-If you like my projects, don't forget to give them a ⭐
+If you like my projects, don't forget to ⭐ them.
 
-Happy Coding 🚀
+🚀 Happy Coding!
 
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0F172A&height=120&section=footer"/>
 </p>
