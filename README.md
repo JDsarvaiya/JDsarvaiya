@@ -83,16 +83,6 @@ Interactive React Spinner Game
 
 ---
 
-### 📸 Photo Studio Asset Management System
-
-Admin Dashboard
-
-Staff Management
-
-Customer Management
-
----
-
 # 📈 GitHub Activity
 
 <p align="center">
